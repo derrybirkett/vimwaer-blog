@@ -1,4 +1,5 @@
 baseURL = 'https://vimwaer.vercel.app/'
 languageCode = 'en-us'
-title = 'Vimwaer Blog'
+title = 'Vimwaer'
+description = 'Confessions of an English API Eater'
 theme = 'paper'
