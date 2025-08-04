@@ -7,3 +7,4 @@ theme = 'archie'
 [params]
     mode = "auto"
     subtitle = "Confessions of an English API Eater"
+    customCSS = ["custom.css"]
