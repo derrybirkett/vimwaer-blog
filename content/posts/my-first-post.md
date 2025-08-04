@@ -1,15 +1,15 @@
 +++
 date = '2025-07-31T11:23:30+02:00'
 draft = false
-title = 'Style Guide for Writing Posts'
+title = 'How I Write These Posts'
 +++
 
-This style guide outlines how to write posts for this blog. Each post should have no titles within the content and the first paragraph should serve as a concise introduction and extract.
+Hey there! I wanted to share how I approach writing these posts—think of it as my little style guide that keeps me consistent and hopefully makes these more enjoyable for you to read.
 
-When crafting a post, focus on delivering a clear, engaging first paragraph that encapsulates the essence of your message. This allows the post listing to showcase a compelling snapshot to attract readers.
+I've learned over years of consulting that the best insights come from real experiences, not theoretical frameworks. So everything I write here comes from actual projects, conversations with clients, or those "aha" moments that happen when you're deep in the design trenches. I try to keep things conversational, like we're chatting over coffee about the latest design challenge.
 
-Avoid using inline titles or subtitles. Instead, let each section flow naturally from one idea to the next. The absence of structural headers makes the content easy to read and aligns with our blog's minimalist aesthetic.
+You'll notice I don't use headers or fancy formatting within posts. It's intentional—I want each piece to flow like a natural conversation. The first paragraph always gives you the gist of what we're diving into, so you can decide if it's worth your time right from the home page.
 
-Additionally, write with clarity and precision, avoiding jargon unless absolutely necessary. The goal is to communicate complex ideas in a simple, understandable manner that resonates with a broad audience.
+I keep the jargon to a minimum because, honestly, our industry has enough of that already. When I do use UX terminology, I try to explain it in a way that makes sense to anyone building digital products, whether you're a designer, developer, or product manager.
 
-Use this guide each time you craft a post to ensure consistency and a seamless reader experience across the blog. Happy writing!
+My goal is to share practical insights that you can actually use in your work tomorrow. These aren't academic theories—they're battle-tested approaches from real client engagements and personal projects. Hope you find them helpful!
