@@ -1,17 +1,15 @@
 +++
 date = '2025-07-31T11:23:30+02:00'
 draft = false
-title = 'My First Post'
+title = 'Style Guide for Writing Posts'
 +++
 
-Welcome to my new Hugo blog! This is my inaugural post exploring the world of static site generation and modern web development.
+This style guide outlines how to write posts for this blog. Each post should have no titles within the content and the first paragraph should serve as a concise introduction and extract.
 
-Hugo is a remarkably fast static site generator written in Go that has transformed how I think about building websites. Unlike traditional content management systems, Hugo generates your entire site as static files, which means lightning-fast load times and incredible security since there's no database to compromise.
+When crafting a post, focus on delivering a clear, engaging first paragraph that encapsulates the essence of your message. This allows the post listing to showcase a compelling snapshot to attract readers.
 
-What initially drew me to Hugo was its speed. Build times that used to take minutes with other platforms now happen in milliseconds. The development experience is smooth and responsive, with live reload functionality that makes writing and editing content a pleasure.
+Avoid using inline titles or subtitles. Instead, let each section flow naturally from one idea to the next. The absence of structural headers makes the content easy to read and aligns with our blog's minimalist aesthetic.
 
-The theming system is both powerful and approachable. You can start with a pre-built theme and customize it to your heart's content, or build something entirely from scratch. The templating language is intuitive, and the documentation is comprehensive without being overwhelming.
+Additionally, write with clarity and precision, avoiding jargon unless absolutely necessary. The goal is to communicate complex ideas in a simple, understandable manner that resonates with a broad audience.
 
-I'm particularly excited about the flexibility Hugo offers for content organization. You can structure your content in ways that make sense for your specific use case, whether you're building a simple blog, a complex corporate site, or something entirely unique.
-
-Looking ahead, I plan to explore Hugo's advanced features like content taxonomies, custom shortcodes, and integration with headless CMS solutions. There's so much potential here for creating fast, maintainable, and scalable web experiences.
+Use this guide each time you craft a post to ensure consistency and a seamless reader experience across the blog. Happy writing!
